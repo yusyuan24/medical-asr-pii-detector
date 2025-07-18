@@ -20,7 +20,7 @@ cuDNN 8.6
 模型訓練資料來源取自 2025 AICUP 醫病語音敏感個人資料辨識競賽主辦方
 
 ## 專案結構簡述
-├── AICUP2025_TEAM_7464.ipynb   # 主程式（Jupyter Notebook）
-├── AICUP.py                    # 主程式中使用到的自訂函式（功能模組）
-├── Training_Dataset.zip        # 音檔與標註資料（不公開）
-└── README.md                   # 專案說明文件
+├── AICUP2025_TEAM_7464.ipynb   # 主程式（Jupyter Notebook）  
+├── AICUP.py                    # 主程式中使用到的自訂函式（功能模組）  
+├── Training_Dataset.zip        # 音檔與標註資料（不公開）  
+└── README.md                   # 專案說明文件  
